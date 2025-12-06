@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='7.0' target-platform='macos' swift-version='6' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='day-1'/>
+        <page name='day-2'/>
+        <page name='day-3'/>
+        <page name='day-4'/>
+        <page name='day-5'/>
+        <page name='day-6'/>
+        <page name='day-7'/>
+        <page name='day-8'/>
+        <page name='day-9'/>
+        <page name='day-10'/>
+        <page name='day-11'/>
+        <page name='day-12'/>
+    </pages>
+</playground>
